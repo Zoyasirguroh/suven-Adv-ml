@@ -1,0 +1,15 @@
+1. pip install flask
+
+2. mkdir <directory name>
+
+3. cd <directory name>
+
+4. create a .py file
+
+5. set FLASK_ENV=developement
+
+6. set FLASK_APP= "app_name"
+
+7. flask run
+
+

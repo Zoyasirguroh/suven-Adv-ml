@@ -1,0 +1,13 @@
+22/3/2020 Adv ML NB 8
+ Stemming -> root word w/o knowing context
+ Lemma  -> root word with knowledge context
+ Ex:  leaves -> leaf  
+ stem -> leav 
+ lemma -> leaf  
+
+  Why to find the root word ?
+  document classification , NLP apps.
+
+  grammar forms -> adverb , verb , ---> noun form
+
+  lemma -> noun form
